@@ -1,0 +1,30 @@
+{
+    "course_id": "ACIT2515",
+    "crn": "12345",
+    "program": "CIT",
+    "students": [
+        "A00000012",
+        "A00000123",
+        "A00001233"
+    ]
+}
+{
+    "course_id": "COMP1130",
+    "crn": "54321",
+    "program": "CST",
+    "students": [
+        "A00000012",
+        "A00000123",
+        "A00001233"
+    ]
+}
+{
+    "course_id": "MATH1320",
+    "crn": "11111",
+    "program": "CST",
+    "students": [
+        "A00000012",
+        "A00000123",
+        "A00001233"
+    ]
+}

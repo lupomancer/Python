@@ -1,0 +1,40 @@
+{
+    "course_id": "ACIT2515",
+    "crn": "12345",
+    "program": "CIT",
+    "students": [
+        "A00000012",
+        "A00000123",
+        "A00001233"
+    ]
+}
+{
+    "course_id": "ACIT1515",
+    "crn": "12222",
+    "program": "CST",
+    "students": [
+        "A00000012",
+        "A00000123",
+        "A00001233"
+    ]
+}
+{
+    "course_id": "ACIT2535",
+    "crn": "12225",
+    "program": "CIT",
+    "students": [
+        "A00000012",
+        "A00000123",
+        "A00001233"
+    ]
+}
+{
+    "course_id": "ACIT2415",
+    "crn": "12245",
+    "program": "CST",
+    "students": [
+        "A00000012",
+        "A00000123",
+        "A00001233"
+    ]
+}
